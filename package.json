@@ -1,0 +1,25 @@
+{
+  "name": "myangular",
+  "version": "1.0.0",
+  "description": "My implementation of the Angular JS library, following a book to learn advanced techniques in software engineering.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "lint": "jshint src test",
+    "test": "karma start"
+  },
+  "author": "Douglas Dunn",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-core": "^3.4.0",
+    "jshint": "^2.10.2",
+    "karma": "^4.1.0",
+    "karma-jasmine": "^2.0.1",
+    "karma-jshint-preprocessor": "0.0.6",
+    "karma-phantomjs-launcher": "^1.0.4",
+    "phantomjs-prebuilt": "^2.1.16",
+    "sinon": "^7.3.2"
+  }
+}
