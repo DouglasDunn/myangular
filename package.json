@@ -15,7 +15,7 @@
   "devDependencies": {
     "jasmine-core": "^3.4.0",
     "jshint": "^2.10.2",
-    "karma": "^4.1.0",
+    "karma": "^6.4.1",
     "karma-jasmine": "^2.0.1",
     "karma-jshint-preprocessor": "0.0.6",
     "karma-phantomjs-launcher": "^1.0.4",
